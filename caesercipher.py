@@ -73,6 +73,5 @@ def getkey():
             return k
         except Exception:
             print("Enter an integer value")
-            continue
         
 main()
